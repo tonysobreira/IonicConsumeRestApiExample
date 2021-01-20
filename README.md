@@ -31,3 +31,13 @@ iOS
 $ ionic cordova platform add ios
 $ ionic cordova run ios
 ```
+
+
+References:
+
+http://www.fabricadecodigo.com/rest-api-ionic/
+https://github.com/fabricadecodigo/IonicConsumeRestApiExample
+
+REST API FAKE
+https://reqres.in/
+https://codesandbox.io/s/polished-butterfly-j17lt?from-embed=&file=/src/App.tsx:262-270
